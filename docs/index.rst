@@ -72,6 +72,6 @@ Demikian pembahasan mengenai cara membuat nada dering WA nama sendiri. Kamu seka
 
 **Sumber referensi:**
 
-- `Sound of Text iPhone <https://www.sebuahutas.com/2022/08/sound-of-text-iphone-dan-cara-pasangnya.html>`_
-- `Cara Membuat Suara Google <https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html>`_
-- `Generator suara robot <https://www.antispam.or.id/2022/07/generator-suara-robot-dari-tulisan-mp3.html>`_
+- `Sound of Text iPhone <https://soundtext.readthedocs.io/en/latest/iphone/>`_
+- `Cara Membuat Suara Google <https://blog.kobi-id.org/3-cara-buat-suara-google-anak-kecil/>`_
+- `Botika text to speech WA <https://botika.readthedocs.io/en/latest/>`_
